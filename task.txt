@@ -1,0 +1,27 @@
+A. Serwer bazodanowy PostgreSQL jako Docker kontener.
+
+Korzystając z aplikacji Oracle VM VirtualBox stworzyć wirtualną maszynę z systemem Ubuntu (ver.22 lub nowsza). W systemie Ubuntu zainstalować pakiet oprogramowania Docker.
+W systemie Ubuntu utworzyć katalog o nazwie „db_vol". Utworzyć i uruchomić kontener z serwerem bazodanowym PostgreSQL. Kontener powinien mieć zamontowany wyżej utworzony katalog „db_vol" jako wolumin, w którym będzie przechowywana baza danych. Uruchomić interpreter poleceń serwera PostgreSQL wcześniej utworzonego kontenera i utworzyć bazę danych oraz tabelę i dodać kilka rekordów. W systemie Ubuntu utworzyć katalog o nazwie „db_vol_2".
+Skopiować zawartość katalogu „db_vol" do katalogu „db_vol_2". Utworzyć i uruchomić drugi kontener z serwerem bazodanowym PostgreSQL. Drugi kontener powinien mieć zamontowany wyżej utworzony katalog „db_vol_2" jako wolumin. Uruchomić interpreter poleceń serwera PostgreSQL wcześniej utworzonego drugiego kontenera i sprawdzić istnienie wcześniej utworzonych bazy danych i tabeli.
+
+Dokumentacja projektu powinna zawierać:
+
+Specyfikację parametrów (wielkość pamięci, procesor, rodzaj dysku, wersję systemu operacyjnego) maszyny gospodarza.
+Specyfikację parametrów maszyny wirtualnej wraz z uzasadnieniem wyboru tych parametrów.
+Szczegółowy opis procesu tworzenie i konfigurowania maszyny wirtualnej oraz procesu instalowania i konfigurowania systemu maszyny wirtualnej.
+Wyniki przeprowadzonych testów łączności maszyny wirtualnej ze światem zewnętrznym.
+Szczegółowy opis procesu tworzenie, konfigurowania i uruchamiania kontenerów.
+Szczegółowy opis procesu tworzenie bazy danych, tabel i dodawania rekordów.
+Szczegółowy opis sprawdzenia istnienia wcześniej utworzonej bazy danych i jej zawartości.
+Wnioski i spostrzeżenia.
+B. System Proxmox 8.3.0.
+Korzystając z aplikacji VMware Workstation Pro stworzyć dwie wirtualne maszyny z systemem Proxmox 8.3.0. Następnie na serwerze Proxmox stworzyć pierwszą maszynę wirtualną z dowolnym systemem Ubuntu (wersja 22 lub nowsza). Z poziomu maszyny z systemem Ubuntu przeprowadzić testy łączności z hostami spoza sieci lokalnej wykorzystując narzędzie ping i przeglądarkę internetową. Sporządzić migawkę stanu pierwszej maszyny wirtualnej. Zainstalować w pierwszej maszynie wirtualnej jakąś aplikację. Sklonować pierwszą maszynę wirtualną, a następnie przywrócić stan pierwszej VM do stanu zapamiętanego w migawce. Przeprowadzić testy łączności pomiędzy wirtualnymi maszynami.
+Następnie na serwerze Proxmox utworzyć dwóch użytkowników student1 i student2 i nadać im następujące uprawnienia: student1 – uprawnienia do uruchamiania i zarządzania pierwszą VM, student2 – uprawnienia do uruchamiania i zarządzania drugą VM (sklonowaną).
+Następnie na serwerze Proxmox utworzyć klaster i dołączyć do niego drugi serwer Proxmox. Dokonać migracji uruchomionej maszyny wirtualnej z pierwszego serwera na drugi. Po dokonaniu migracji sprawdzić poprawność funkcjonowania maszyny wirtualnej.
+Dokumentacja projektu powinna zawierać:
+Specyfikację parametrów (wielkość pamięci, procesor, rodzaj dysku, wersję systemu operacyjnego) maszyny gospodarza.
+Specyfikację parametrów maszyny wirtualnej wraz z uzasadnieniem wyboru tych parametrów.
+Szczegółowy proces tworzenie i konfigurowania maszyny wirtualnej oraz proces instalowania i konfigurowania systemu maszyny wirtualnej.
+Opis przeprowadzonych operacji.
+Wyniki przeprowadzonych testów.
+Wnioski i spostrzeżenia.
