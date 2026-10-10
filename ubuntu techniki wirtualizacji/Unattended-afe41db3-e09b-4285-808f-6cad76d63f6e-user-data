@@ -1,0 +1,53 @@
+#cloud-config
+autoinstall:
+  # version is an Autoinstall required field.
+  version: 1
+  apt:
+    fallback: offline-install
+  locale: en_US
+  keyboard:
+    layout: us
+  shutdown: reboot
+  storage:
+    layout:
+      name: direct
+    swap:
+      size: 0
+
+
+#todo packages stuff needs to be tested
+  # Stuff we need to build Guest Additions modules.
+  packages:
+    - build-essential
+    - linux-headers-generic
+    - perl
+    - make
+    - dkms
+
+  identity:
+    hostname: 'ubuntu'
+    username: 'vboxuser'
+    realname: 'vboxuser'
+    password: '$6$x3/MPmzkKeLvjq2E$yU33cqjCZvEuqbAp.x73B6i2XXo0r8s39CoGIyQF9vVtMTXZXfcKvJW6X74jXMWnMP5I93xGutnHw70KAJ5E.1'
+# todo. maybe we need to handle group stuff as late command, as well. to be tested
+# 
+#         groups: sudo, vboxsf
+# 
+
+  user-data:
+
+    timezone: Etc/UTC
+
+    ntp:
+
+      enabled: false
+
+
+
+  # Custom Commands.
+  late-commands:
+
+
+    - cp /cdrom/vboxpostinstall.sh /target/root/vboxpostinstall.sh
+    - chmod +x /target/root/vboxpostinstall.sh
+    - curtin in-target --target=/target -- /bin/bash /root/vboxpostinstall.sh --direct

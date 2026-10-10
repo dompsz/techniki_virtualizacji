@@ -1,0 +1,199 @@
+00:00:00.128496 VirtualBox GUI (separate) 7.2.20 r175154 win.amd64 (Sep 22 2026 11:06:00) release log
+00:00:00.128498 Log opened 2026-10-07T14:11:06.966589300Z
+00:00:00.128498 Build Type: release
+00:00:00.128499 OS Product: Windows 10
+00:00:00.128580 OS Release: 10.0.19045.6456
+00:00:00.128582 OS Service Pack: 
+00:00:00.136054 DMI Product Name: Z390 GAMING X
+00:00:00.138882 DMI Product Version: Default string
+00:00:00.138901 Firmware type: UEFI
+00:00:00.139401 Secure Boot: Disabled
+00:00:00.139410 Host RAM: 16317MB (15.9GB) total, 10990MB (10.7GB) available
+00:00:00.139414 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+00:00:00.139415 Process ID: 7216
+00:00:00.139415 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.139415 Windows Features:
+00:00:00.139416   Core Isolation (Memory Integrity): Not supported
+00:00:00.140080 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.151956 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.854143 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:00:00.856254 DnD: User Interface Privilege Isolation (UIPI) is running with SECURITY_MANDATORY_HIGH_RID
+00:00:00.856272 DnD: Warning: The VM process' integrity level is higher than most regular processes on the system. This means that drag'n drop most likely will not work with other applications!
+00:00:00.973193 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.973218 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:00:00.986582 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:00:00.986601 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:00.992139 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:01.304169 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.163134 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.039359 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:08.853134 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:00:08.853148 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:08.853348 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:00:08.853357 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:08.856642 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:00:08.859019 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:00:08.859081 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:09.104884 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:00:09.434106 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:58.670561 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:03.097571 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:04.348072 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:04.914485 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:06.057220 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:08.083786 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:09.400583 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:10.382925 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:11.590668 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:13.335977 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:14.102986 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:14.679201 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:30.216406 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:15:30.219981 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:15:30.337377 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:15:30.337393 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:15:30.339790 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:15:30.339803 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:15:30.340629 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:15:30.340640 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:15:30.362841 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:15:30.362857 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:15:30.364054 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:15:30.367258 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:15:30.367332 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:15:30.373137 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:15:30.375193 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:15:30.375255 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:15:30.879383 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:15:30.881985 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:15:30.882061 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:05.641754 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:09.926987 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:17:09.929058 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:17:09.929259 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:09.929290 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:17:09.931022 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:17:09.946335 GUI: UIMachineLogic: Guest-screen count changed
+00:17:10.254004 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:10.281865 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:17:10.602420 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:12.793656 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:17:12.957690 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:17:13.611593 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:17:13.928970 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:22.962904 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:17:22.962917 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:22.963109 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:17:22.963118 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:22.963584 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:17:22.965758 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:17:22.965828 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:23.003986 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:17:23.338638 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:57.587624 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:17:57.587638 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:57.938243 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:17:57.938256 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:57.938383 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:17:57.938392 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:57.939383 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:17:57.939392 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:57.965457 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:17:57.965482 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:57.966590 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:17:57.969138 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:17:57.969218 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:17:57.969858 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:17:57.971911 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:17:57.972024 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:23:38.932453 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:34.148189 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:34.712372 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:35.159195 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:36.584629 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:37.380397 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:37.820951 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:38.272441 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:39.474430 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:40.369330 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:36:26.873809 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:37:03.651292 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:37:03.653949 GUI: UIMachineLogic: Guest-screen count changed
+00:37:03.974683 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:37:10.414226 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:39:38.306839 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:44:01.599740 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:39.838539 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:40.853625 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 979x800
+00:47:40.883258 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 977x800
+00:47:40.888048 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:40.888933 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:40.906915 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 977x800 to guest-screen 0 because this hint was previously sent.
+00:47:40.981145 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 962x800
+00:47:41.015385 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 946x800
+00:47:41.047723 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:41.051895 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 936x800
+00:47:41.055729 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 936x800 to guest-screen 0 because this hint was previously sent.
+00:47:41.084790 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 927x800
+00:47:41.086195 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:41.087512 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:41.105611 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 927x800 to guest-screen 0 because this hint was previously sent.
+00:47:41.140863 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 927x800 to guest-screen 0 because this hint was previously sent.
+00:47:41.149817 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:47:41.151579 GUI: UIFrameBufferPrivate::performResize: Size=977x800, Using fallback buffer since no source bitmap is provided
+00:47:41.175284 GUI: UIMachineLogic: Guest-screen count changed
+00:47:41.213970 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 926x800
+00:47:41.222149 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:41.241284 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 926x800 to guest-screen 0 because this hint was previously sent.
+00:47:41.267573 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 926x800 to guest-screen 0 because this hint was previously sent.
+00:47:41.299594 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 926x800 to guest-screen 0 because this hint was previously sent.
+00:47:41.340926 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 926x800 to guest-screen 0 because this hint was previously sent.
+00:47:41.341514 GUI: UIFrameBufferPrivate::performResize: Size=977x800, Using fallback buffer since no source bitmap is provided
+00:47:41.344671 GUI: UIFrameBufferPrivate::performResize: Size=926x800, Using fallback buffer since no source bitmap is provided
+00:47:41.346447 GUI: UIMachineLogic: Guest-screen count changed
+00:47:41.372782 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 926x800 to guest-screen 0 because frame-buffer is already of the same size.
+00:47:41.470075 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 926x800 to guest-screen 0 because frame-buffer is already of the same size.
+00:47:41.500991 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 926x800 to guest-screen 0 because frame-buffer is already of the same size.
+00:47:41.507974 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:47:43.687747 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:51:17.678743 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 2560x1334
+00:51:17.681487 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:51:17.709025 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:51:47.153446 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 926x800 to guest-screen 0 because frame-buffer is already of the same size.
+00:51:47.946592 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:51:53.614312 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 2560x1334 to guest-screen 0 because this hint was previously sent.
+00:51:53.677107 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:51:54.666912 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1278x1325
+00:51:54.668207 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:51:54.801083 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 1278x1325 to guest-screen 0 because this hint was previously sent.
+00:51:54.823067 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:51:54.827299 GUI: UIFrameBufferPrivate::performResize: Size=926x800, Using fallback buffer since no source bitmap is provided
+00:51:54.833304 GUI: UIFrameBufferPrivate::performResize: Size=1278x1325, Using fallback buffer since no source bitmap is provided
+00:51:54.844764 GUI: UIMachineLogic: Guest-screen count changed
+00:59:21.298323 GUI: UIFrameBufferPrivate::performResize: Size=1278x1325, Using fallback buffer since no source bitmap is provided
+00:59:29.043871 GUI: UIFrameBufferPrivate::performResize: Size=1278x1325, Using fallback buffer since no source bitmap is provided
+00:59:29.046478 GUI: UIMachineLogic: Guest-screen count changed
+00:59:41.088653 GUI: UIFrameBufferPrivate::performResize: Size=1278x1325, Using fallback buffer since no source bitmap is provided
+00:59:41.092586 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:59:41.135925 GUI: UIMachineLogic: Guest-screen count changed
+00:59:41.406495 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:59:41.413922 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:59:41.414034 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:59:41.432391 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 1280x800 to guest-screen 0 because frame-buffer is already of the same size.
+00:59:41.454149 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:59:41.535557 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners.
+00:59:41.541027 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:59:41.541970 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:59:41.660075 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:59:41.660088 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:59:41.660338 GUI: UISession::sltAdditionsChange: GA state doesn't really changed, still notifying listeners.
+00:59:41.660349 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:59:47.310946 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:59:47.336577 GUI: Waiting for session to be unlocked to close Runtime UI..
+00:59:47.795969 GUI: Request to close Runtime UI because session is unlocked.
+00:59:47.795986 GUI: Request for async QApp quit.
+00:59:47.796732 GUI: Cannot notify guest about VM window out-of-focus event
+00:59:47.814870 GUI: UICommon: Handling aboutToQuit request..
+00:59:48.974999 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:59:48.975905 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:59:48.998895 GUI: UICommon: aboutToQuit request handled!
